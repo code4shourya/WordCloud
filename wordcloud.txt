@@ -1,0 +1,33 @@
+machineLearning
+dataScience 
+engineering 
+dataAnalysis
+django
+numpy 
+pandas
+DataStructures
+algorithms
+DSA
+computer science
+software
+coding 
+competitve programming 
+python
+C
+C++
+matplotlib
+seaborn 
+visualisation
+git
+github
+AI
+Projects
+Hackerrank
+Codechef
+GeeksforGeeks
+StackOverflow
+Algebra 
+Maths
+Staitistics
+Tableau
+
