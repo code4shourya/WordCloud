@@ -30,4 +30,7 @@ Algebra
 Maths
 Staitistics
 Tableau
-
+HTML
+CSS
+javascript
+microprocessor
